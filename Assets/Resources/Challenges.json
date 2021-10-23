@@ -1,0 +1,45 @@
+{
+    "challenges":
+    [
+    {
+      "name": "CH1",
+      "description": "Challenge Number:1 \n All you have to do is.....",
+      "reward": 1000
+    },
+    {
+      "name": "CH2",
+      "description": "Challenge Number:2 \n All you have to do is.....",
+      "reward": 1500
+    },
+    {
+      "name": "CH3",
+      "description": "Challenge Number:3 \n All you have to do is.....",
+      "reward": 2000
+    },
+    {
+      "name": "CH4",
+      "description": "Challenge Number:4 \n All you have to do is.....",
+      "reward": 2500
+    },
+    {
+      "name": "CH5",
+      "description": "Challenge Number:5 \n All you have to do is.....",
+      "reward": 3000
+    },
+    {
+      "name": "CH6",
+      "description": "Challenge Number:6 \n All you have to do is.....",
+      "reward": 3500
+    },
+    {
+      "name": "CH7",
+      "description": "Challenge Number:7 \n All you have to do is.....",
+      "reward": 5000
+    },
+    {
+      "name": "CH8",
+      "description": "Challenge Number:8 \n All you have to do is.....",
+      "reward": 5500
+    }
+    ]
+  }
